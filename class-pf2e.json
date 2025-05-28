@@ -4,70 +4,80 @@
       "no": "1",
       "name": "Alchemist",
       "key_attribute": "Intelligence",
-      "hitpoint": "8",
+      "hitpoint": "HP: 8",
+      "type": "versatile",
       "Poster": "https://2e.aonprd.com/Images/Classes/Iconic_Fumbus.png"
     },
     {
       "no": "2",
       "name": "Barbarian",
       "key_attribute": "Strength",
-      "hitpoint": "12",
+      "hitpoint": "HP: 12",
+      "type": "physical",
       "Poster": "https://2e.aonprd.com/Images/Classes/Iconic_Amiri.png"
     },
     {
       "no": "3",
       "name": "Bard",
       "key_attribute": "Charisma",
-      "hitpoint": "8",
+      "hitpoint": "HP: 8",
+      "type": "magic",
       "Poster": "https://2e.aonprd.com/Images/Classes/Iconic_Lem.png"
     },
     {
       "no": "4",
       "name": "Champion",
       "key_attribute": "Charisma",
-      "hitpoint": "10",
+      "hitpoint": "HP: 10",
+      "type": "physical",
       "Poster": "https://2e.aonprd.com/Images/Classes/Iconic_Seelah.png"
     },
     {
       "no": "5",
       "name": "Cleric",
       "key_attribute": "Wisdom",
-      "hitpoint": "8",
+      "hitpoint": "HP: 8",
+      "type": "magic",
       "Poster": "https://2e.aonprd.com/Images/Classes/Iconic_Kyra.png"
     },
     {
       "no": "6",
       "name": "Druid",
       "key_attribute": "Wisdom",
-      "hitpoint": "8",
+      "hitpoint": "HP: 8",
+      "type": "magic",
       "Poster": "https://2e.aonprd.com/Images/Classes/Iconic_Lini.png"
     },
     {
       "no": "7",
       "name": "Fighter",
       "key_attribute": "Strength or Dexterity",
-      "hitpoint": "10",
+      "hitpoint": "HP: 10",
+      "type": "physical",
       "Poster": "https://2e.aonprd.com/Images/Classes/Iconic_Valeros.png"
     },
     {
       "no": "8",
       "name": "Monk",
       "key_attribute": "Dexterity or Strength",
-      "hitpoint": "10",
+      "hitpoint": "HP: 10",
+      "type": "physical",
       "Poster": "https://2e.aonprd.com/Images/Classes/Iconic_Sajan.png"
     },
     {
       "no": "9",
       "name": "Ranger",
       "key_attribute": "Strength or Dexterity",
-      "hitpoint": "10",
+      "hitpoint": "HP: 10",
+      "type": "versatile",
       "Poster": "https://2e.aonprd.com/Images/Classes/Iconic_Harsk.png"
     },
     {
       "no": "10",
       "name": "Rogue",
       "key_attribute": "Dexterity",
-      "hitpoint": "8",
+      "hitpoint": "HP: 8",
+      "type": "versatile",
       "Poster": "https://2e.aonprd.com/Images/Classes/Iconic_Merisiel.png"
     }
   ]
